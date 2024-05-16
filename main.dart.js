@@ -62017,10 +62017,10 @@ r=$.ahc()
 return new A.uc(new A.pY(r,new A.JK(s,q,1/0,s+0),s,q),new A.BQ(new A.NB(p.a.a,o),q),q)}}
 A.NB.prototype={
 $2(a2,a3){var s,r,q,p,o=null,n="Hi, my name is",m="Kinga \u017bmuda",l="https://www.linkedin.com/in/kingazmuda/",k="https://github.com/kingazm",j="images/me.jpg",i="What I do",h="App development",g="Tutoring",f="Non-profit work",e="\xa9 made by yours truly",d=this.a,c=this.b,b=t.d,a=t.h9,a0=d/4,a1=c/10
-if(a3.b>500){s=c*11/12
+if(a3.b>420){s=c*11/12
 r=d/20
 q=$.a7g()
-q=A.cx(o,A.hH(A.a([A.cx(o,A.fl(A.a([A.e3(n,o),A.e3(m,A.dr(o,o,o,o,o,o,o,o,o,o,o,40,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),A.e3("Nulla ornare, massa in porta suscipit, diam nisi accumsan risus, non molestie sapien justo id est. Cras hendrerit ex eu ex tristique elementum. Etiam posuere ex vel tortor pretium, non mattis eros bibendum. Ut eu convallis quam, sed cursus lorem. Aenean viverra massa eros, id scelerisque nisl scelerisque a.",A.dr(o,o,o,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),A.hI(o,10,o),A.hH(A.a([A.adA(B.i,22,l),A.adz(B.i,22,k),A.hI(o,o,10),A.adK(A.e3("My CV",o),A.agH(),A.zh(o,o,new A.bO(A.Z(B.c.b1(229.5),255,255,255),a),o,o,o,new A.bO(B.j,a),o,o,o,o,o,o,o,o,o,o,o,o,o,o,o))],b),B.M,B.aH,B.ax)],b),B.dp,B.br),B.q,o,o,o,o,o,o,o,o,o,o,d/2),A.cx(o,A.ab_(new A.mT(j),120),B.q,o,o,o,o,o,o,o,o,o,o,a0)],b),B.M,B.bP,B.ax),B.q,o,o,o,o,s,q,o,o,o,o,o)
+q=A.cx(o,A.hH(A.a([A.cx(o,A.fl(A.a([A.e3(n,o),A.e3(m,A.dr(o,o,o,o,o,o,o,o,o,o,o,40,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),A.e3("Computer Science Student @ Jagiellonian University in Cracow. Eager to tackle new challanges regarding software engineering.",A.dr(o,o,o,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),A.hI(o,10,o),A.hH(A.a([A.adA(B.i,22,l),A.adz(B.i,22,k),A.hI(o,o,10),A.adK(A.e3("My CV",o),A.agH(),A.zh(o,o,new A.bO(A.Z(B.c.b1(229.5),255,255,255),a),o,o,o,new A.bO(B.j,a),o,o,o,o,o,o,o,o,o,o,o,o,o,o,o))],b),B.M,B.aH,B.ax)],b),B.dp,B.br),B.q,o,o,o,o,o,o,o,o,o,o,d/2),A.cx(o,A.ab_(new A.mT(j),120),B.q,o,o,o,o,o,o,o,o,o,o,a0)],b),B.M,B.bP,B.ax),B.q,o,o,o,o,s,q,o,o,o,o,o)
 a0=$.a7i()
 a0=A.cx(o,A.fl(A.a([A.cx(o,A.e3(i,A.dr(o,o,o,o,o,o,o,o,o,o,o,40,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),B.q,o,o,o,o,o,o,o,new A.aT(0,0,0,30),o,o,o),A.hH(A.a([A.ew(B.jS,h,5,c,d),A.ew(B.jR,g,5,c,d),A.ew(B.jQ,"Design",5,c,d),A.ew(B.jT,f,5,c,d)],b),B.M,B.bP,B.ax)],b),B.M,B.br),B.q,o,o,o,o,s,a0,o,o,o,o,o)
 a=$.a7j()
